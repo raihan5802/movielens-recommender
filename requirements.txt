@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+surprise
+flask
+matplotlib
+seaborn
+sagemaker
+boto3
+polars
+scipy
